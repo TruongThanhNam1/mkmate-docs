@@ -5,7 +5,7 @@ sidebar_position: 3
 sidebar_label: Thư viện ảnh
 published: true
 ---
-# Thư viện ảnh aaaaaaaaa
+# Thư viện ảnh
 
 - Là nơi lưu trữ các bộ sưu tập. Đường dẫn Thư viện ảnh: `domain/information/picture`
 
